@@ -1,4 +1,5 @@
-Battleship Game
+Battleship Game<br>
+
 To run navigate to the target directory then enter java -jar assignment1-1.0-SNAPSHOT.jar <your parameters>. With your parameters being height width and number of ships. 
 E.g java -jar assignment1-1.0-SNAPSHOT.jar 10 20 4
 
